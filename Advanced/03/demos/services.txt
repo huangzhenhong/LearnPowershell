@@ -1,0 +1,4 @@
+bits
+winrm
+wsearch
+w32time
